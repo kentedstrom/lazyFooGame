@@ -144,6 +144,9 @@
   <ItemGroup>
     <ClCompile Include="06_extension_libraries_and_loading_other_image_formats\06_extension_libraries_and_loading_other_image_formats.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LTexture.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
